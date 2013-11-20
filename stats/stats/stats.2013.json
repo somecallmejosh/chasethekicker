@@ -1,0 +1,218 @@
+{
+    "name": "2013/14 Season",
+    "startDate": "2013-09-01",
+    "endDate": "2014-01-01",
+    "games": [
+        {
+            "date": "2013-09-14",
+            "opponent": "Platt Tech High",
+            "location": "Home",
+            "homeGame" : 1,
+            "kickoffs": [
+                58,
+                59,
+                61,
+                40,
+                64,
+                68,
+                70
+            ],
+            "punts": [
+                32,
+                30,
+                30
+            ],
+            "pointsAfterTouchdownAttempted": 6,
+            "pointsAfterTouchdownSucceeded": 5,
+            "fieldGoals": [
+                {
+                    "distance": 25,
+                    "result": 1
+                },
+                {
+                    "distance": 42,
+                    "result": 0
+                }
+            ]
+        },
+        {
+            "date": "2013-09-21",
+            "opponent": "New London High",
+            "location": "Home",
+            "homeGame" : 1,
+            "kickoffs": [
+                71, 
+                66,
+                63
+            ],
+            "punts": [
+                35,
+                35,
+                50
+            ],
+            "pointsAfterTouchdownAttempted": 4,
+            "pointsAfterTouchdownSucceeded": 3,
+            "fieldGoals": [
+                {
+                }
+            ]
+        },
+        {
+            "date": "2013-09-28",
+            "opponent": "Wolcott Tech",
+            "location": "Home",
+            "homeGame" : 0,
+            "kickoffs": [
+                63,
+                62,
+                61,
+                55,
+                50,
+                40
+            ],
+            "punts": [
+                52
+            ],
+            "pointsAfterTouchdownAttempted": 7,
+            "pointsAfterTouchdownSucceeded": 6,
+            "fieldGoals": [
+                {
+                }
+            ]
+        },
+        {
+            "date": "2013-10-05",
+            "opponent": "Putnam High School",
+            "location": "Home",
+            "homeGame" : 0,
+            "kickoffs": [
+                62,
+                65,
+                62,
+                64,
+                66,
+                65,
+                55
+            ],
+            "punts": [
+                40
+            ],
+            "pointsAfterTouchdownAttempted": 7,
+            "pointsAfterTouchdownSucceeded": 5,
+            "fieldGoals": [
+                {
+                    "distance": 37,
+                    "result": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-12",
+            "opponent": "Bullard Haven Technical School",
+            "location": "Away",
+            "homeGame" : 1,
+            "kickoffs": [
+                55,
+                65,
+                72,
+                64,
+                61
+            ],
+            "punts": [
+                40
+            ],
+            "pointsAfterTouchdownAttempted": 4,
+            "pointsAfterTouchdownSucceeded": 3,
+            "fieldGoals": [
+                {
+                }
+            ]
+        },
+        {
+            "date": "2013-10-19",
+            "opponent": "Abbot Tech",
+            "location": "Home",
+            "homeGame" : 0,
+            "kickoffs": [
+                62
+            ],
+            "punts": [
+               35
+            ],
+            "pointsAfterTouchdownAttempted": 7,
+            "pointsAfterTouchdownSucceeded": 7,
+            "fieldGoals": [
+                {
+                    "distance": 25,
+                    "result": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-25",
+            "opponent": "Vinal Tech",
+            "location": "Home",
+            "homeGame" : 0,
+            "kickoffs": [
+                62
+            ],
+            "punts": [
+               35
+            ],
+            "pointsAfterTouchdownAttempted": 7,
+            "pointsAfterTouchdownSucceeded": 7,
+            "fieldGoals": [
+                {
+                    "distance": 30,
+                    "result": 1
+                },
+                {
+                    "distance": 42,
+                    "result": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-09",
+            "opponent": "O'Brien Tech",
+            "location": "Home",
+            "homeGame" : 0,
+            "kickoffs": [
+                62
+            ],
+            "punts": [
+               
+            ],
+            "pointsAfterTouchdownAttempted": 6,
+            "pointsAfterTouchdownSucceeded": 6,
+            "fieldGoals": [
+            ]
+        },
+        {
+            "date": "2013-11-15",
+            "opponent": "Cheney Tech",
+            "location": "Away",
+            "homeGame" : 0,
+            "kickoffs": [
+                62,
+                63,
+                62
+            ],
+            "punts": [
+               
+            ],
+            "pointsAfterTouchdownAttempted": 5,
+            "pointsAfterTouchdownSucceeded": 5,
+            "fieldGoals": [
+                {
+                    "distance": 25,
+                    "result": 1
+                },
+                {
+                    "distance": 40,
+                    "result": 1
+                }
+            ]
+        }
+    ]
+}

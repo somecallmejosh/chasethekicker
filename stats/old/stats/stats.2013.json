@@ -1,0 +1,88 @@
+{
+    "name": "2013/14 Season",
+    "startDate": "2013-09-01",
+    "endDate": "2014-01-01",
+    "games": [
+        {
+            "date": "2013-09-01",
+            "opponent": "Team 1",
+            "location": "Home",
+            "kickoffs": [
+                40,
+                65,
+                63
+            ],
+            "punts": [
+                35,
+                44,
+                40
+            ],
+            "pointsAfterTouchdownAttempted": 5,
+            "pointsAfterTouchdownSucceeded": 4,
+            "fieldGoals": [
+                {
+                    "distance": 39,
+                    "result": 1
+                },
+                {
+                    "distance": 28,
+                    "result": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-02",
+            "opponent": "Team 2",
+            "location": "Away",
+            "kickoffs": [
+                60,
+                61,
+                63
+            ],
+            "punts": [
+                35,
+                44,
+                40
+            ],
+            "pointsAfterTouchdownAttempted": 5,
+            "pointsAfterTouchdownSucceeded": 5,
+            "fieldGoals": [
+                {
+                    "distance": 42,
+                    "result": 1
+                },
+                {
+                    "distance": 65,
+                    "result": 0
+                }
+            ]
+        },
+        {
+            "date": "2013-09-03",
+            "opponent": "Team 3",
+            "location": "Home",
+            "kickoffs": [
+                40,
+                67,
+                59
+            ],
+            "punts": [
+                35,
+                44,
+                40
+            ],
+            "pointsAfterTouchdownAttempted": 7,
+            "pointsAfterTouchdownSucceeded": 4,
+            "fieldGoals": [
+                {
+                    "distance": 47,
+                    "result": 1
+                },
+                {
+                    "distance": 61,
+                    "result": 1
+                }
+            ]
+        }
+    ]
+}
