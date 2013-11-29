@@ -3,6 +3,24 @@
     <h2 class="call-out">Kicking Vids</h2>
     <div class="weekly-highlights">
       <div class="vid">
+        <iframe width="480" height="270" src="//www.youtube.com/embed/videoseries?list=PLidCjvFoClTdRMKtBK3yltg7C_h9hrnci" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="write-up">
+        <h2>Highlights: <em>11/23/2013 vs. Prince Tech</h2>
+        <ul>
+          <li>3 Points
+              <ul>
+                <li>3 PATs</li>
+              </ul>
+          </li>
+          <li>3 Touchbacks</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+
+    <div class="weekly-highlights">
+      <div class="vid">
         <iframe width="480" height="270" src="//www.youtube.com/embed/videoseries?list=PLidCjvFoClTf8j3v6AM2jPhq2xwhg-lNx" frameborder="0" allowfullscreen></iframe>
       </div>
       <div class="write-up">

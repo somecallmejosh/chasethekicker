@@ -213,6 +213,23 @@
                     "result": 1
                 }
             ]
+        },
+        {
+            "date": "2013-11-23",
+            "opponent": "Cheney Tech",
+            "location": "Away",
+            "homeGame" : 0,
+            "kickoffs": [
+                62,
+                63,
+                62
+            ],
+            "punts": [
+               40
+            ],
+            "pointsAfterTouchdownAttempted": 4,
+            "pointsAfterTouchdownSucceeded": 3,
+            "fieldGoals": []
         }
     ]
 }

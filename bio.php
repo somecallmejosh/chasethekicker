@@ -29,7 +29,7 @@
           </tr>
           <tr>
             <td>SAT</td>
-            <td>1400</td>
+            <td>1450</td>
           </tr>
           <tr>
             <td>College Credits Earned</td>

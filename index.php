@@ -11,6 +11,7 @@
     <div class="secondary-content">
       <h3>Season Highlights <em>Playlist</em></h3>
       <iframe width="390" height="219" src="//www.youtube.com/embed/videoseries?list=PLidCjvFoClTe62vRmT2ts2T-h2mWUDkkH" frameborder="0" allowfullscreen></iframe>
+      <?php include('includes/action-items.php') ?>
     </div>
   </div>
 <?php include('includes/footer.php') ?>
