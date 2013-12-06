@@ -230,6 +230,26 @@
             "pointsAfterTouchdownAttempted": 4,
             "pointsAfterTouchdownSucceeded": 3,
             "fieldGoals": []
+        },
+        {
+            "date": "2013-12-03",
+            "opponent": "Bloomfield High",
+            "location": "Away",
+            "homeGame" : 0,
+            "kickoffs": [
+                62
+            ],
+            "punts": [
+               40
+            ],
+            "pointsAfterTouchdownAttempted": 0,
+            "pointsAfterTouchdownSucceeded": 0,
+            "fieldGoals": [
+                {
+                    "distance": 40,
+                    "result": 1
+                },
+            ]
         }
     ]
 }
