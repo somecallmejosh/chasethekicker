@@ -237,7 +237,10 @@
             "location": "Away",
             "homeGame" : 0,
             "kickoffs": [
-                62
+                62,
+                60,
+                60,
+                60
             ],
             "punts": [
                40
