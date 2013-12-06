@@ -245,8 +245,8 @@
             "punts": [
                40
             ],
-            "pointsAfterTouchdownAttempted": 0,
-            "pointsAfterTouchdownSucceeded": 0,
+            "pointsAfterTouchdownAttempted": 1,
+            "pointsAfterTouchdownSucceeded": 1,
             "fieldGoals": [
                 {
                     "distance": 40,
