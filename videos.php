@@ -3,6 +3,24 @@
     <h2 class="call-out">Kicking Vids</h2>
     <div class="weekly-highlights">
       <div class="vid">
+        <iframe width="480" height="270" src="//www.youtube.com/embed/videoseries?list=PLidCjvFoClTeNhfjUx121_VVlbSYiEzyO" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="write-up">
+        <h2>Highlights: <em>12/03/2013 vs. Bloomfield High</h2>
+        <ul>
+          <li>3 Points
+              <ul>
+                <li>40yd FG</li>
+              </ul>
+          </li>
+          <li>2 Punts</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+
+    <div class="weekly-highlights">
+      <div class="vid">
         <iframe width="480" height="270" src="//www.youtube.com/embed/videoseries?list=PLidCjvFoClTdRMKtBK3yltg7C_h9hrnci" frameborder="0" allowfullscreen></iframe>
       </div>
       <div class="write-up">
