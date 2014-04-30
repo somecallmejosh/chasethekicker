@@ -25,7 +25,7 @@ require_once('stats/stats/stats.php');
 <![endif]-->
   <div class="container">
   <header>
-      <h1>Chase Briley<em>Kicking Prospect 2014</em></h1>
+      <h1>Chase Briley<em>Heading to UCONN</em></h1>
       <nav>
         <ul class="main-nav">
           <li><a href="index.php" <?php nav_function(index); ?>>Home</a></li>
