@@ -6,7 +6,7 @@
   switch ($file) {
     // Home Page title and meta data
     case "index":
-      $pageTitle = "Chase Briley | 2014 College Kicking Prospect"; 
+      $pageTitle = "Chase Briley | Heading to UCONN"; 
       $keywordTag = "$pageTitle, college kicker, high school kicker "; 
       $descriptionTag = "Chase Briley is a 2014 college kicking prospect from Hartford, CT."; 
       break;
