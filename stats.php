@@ -25,7 +25,7 @@
     <thead>
       <tr>
         <th>Date</th>
-        <th class="opponent">Opponent</th>
+        <th class="opponent">Opponents</th>
         <th>Field Goals</th>
         <th>Kickoffs</th>
         <th>Punts</th>
