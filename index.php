@@ -1,12 +1,11 @@
 <?php include('includes/head.php'); ?>
   <div id="main-content">
     <div class="primary-content">
-      <h2 class="call-out">UCONN</h2>
+      <h2 class="call-out">#94</h2>
       <img class="pull-right full-border" src="images/chase-briley-field-goal.jpg" alt="Chase Briley Field Goal">
-      <p>My name is <strong>Chase Briley</strong> and I am proud to announce that I will be playing for the 
-        University of Connecticut in the Fall of 2014. I will be updating this site with new information as it 
-        becomes available. Thanks for everyone who's helped me in this journey!  
-      Here are some of my <a href="videos.php">kicking videos</a>.</p>
+      <p>The UCONN <a href="http://www.uconnhuskies.com/sports/m-footbl/mtt/chase_briley_912112.html" target="_blank">roster</a> is posted. I'll be donning <strong>#94</strong> this season. Be 
+        on the lookout. Dad also put together <a href="http://somecallmejosh.github.io/app" target="_blank">this little app</a> for friends and family so they can keep up with 
+        the schedule. It'll probably be part of this website soon.</p>
     </div>
     <div class="secondary-content">
       <h3>Highschool <em>Highlights</em></h3>
