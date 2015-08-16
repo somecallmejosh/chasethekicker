@@ -3,9 +3,8 @@
     <div class="primary-content">
       <h2 class="call-out">#94</h2>
       <img class="pull-right full-border" src="images/chase-briley-field-goal.jpg" alt="Chase Briley Field Goal">
-      <p>The UCONN <a href="http://www.uconnhuskies.com/sports/m-footbl/mtt/chase_briley_912112.html" target="_blank">roster</a> is posted. I'll be donning <strong>#94</strong> this season. Be 
-        on the lookout. Dad also put together <a href="http://somecallmejosh.github.io/app" target="_blank">this little app</a> for friends and family so they can keep up with 
-        the schedule. It'll probably be part of this website soon.</p>
+      <p>Thanks to my family, coaches, teachers and friends for all of your support during these last four years. It took a lot of hard work, but we made it! The UCONN <a href="http://www.uconnhuskies.com/sports/m-footbl/mtt/chase_briley_912112.html" target="_blank">roster</a> is posted. I'll be donning <strong>#94</strong> this season. Be 
+        on the lookout.</p>
     </div>
     <div class="secondary-content">
       <h3>Highschool <em>Highlights</em></h3>
