@@ -30,7 +30,7 @@ require_once('stats/stats/stats.php');
         <ul class="main-nav">
           <li><a href="index.php" <?php nav_function(index); ?>>Home</a></li>
           <li><a href="bio.php" <?php nav_function(bio); ?>>Bio</a></li>
-          <!-- <li><a href="stats.php" <?php nav_function(stats); ?>>Stats</a></li> -->
+          <li><a href="stats.php" <?php nav_function(stats); ?>>Stats</a></li>
           <li><a href="videos.php" <?php nav_function(videos); ?>>Videos</a></li>
         </ul>
       </nav>

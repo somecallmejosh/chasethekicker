@@ -292,7 +292,7 @@ html {
 
 @font-face {
   font-family: "Impact";
-  src: url(/fonts/Impact.ttf) format('truetype'), url(/fonts/impact.otf) format('opentype');
+  src: url(../fonts/Impact.ttf) format('truetype'), url(../fonts/impact.otf) format('opentype');
 }
 
 /* line 13, ../sass/partials/_typography.sass */
